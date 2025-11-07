@@ -2,7 +2,7 @@
 
 ## Junior Data Scientist Assignment
 
-This repository contains my submission for the Data Science Assignment[cite: 4, 29]. [cite_start]The objective of this project is to explore the relationship between trader performance (profitability, volume) and overall market sentiment (Fear vs. Greed), with the goal of uncovering hidden patterns that could lead to smarter trading strategies.
+This repository contains my submission for the Data Science Assignment. The objective of this project is to explore the relationship between trader performance (profitability, volume) and overall market sentiment (Fear vs. Greed), with the goal of uncovering hidden patterns that could lead to smarter trading strategies.
 
 ---
 
@@ -36,3 +36,4 @@ The Google Colab notebook is fully self-contained.
 ## 📂 Project Structure
 
 This repository follows the standardized submission format as requested in the instructions.
+
