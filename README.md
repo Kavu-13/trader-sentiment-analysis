@@ -14,7 +14,7 @@ There are two ways to review my work:
     * **[➡️ `ds_report.pdf`](./ds_report.pdf)**
 
 2.  **Google Colab Notebook (Full Analysis):** To see the complete, end-to-end code, from data cleaning to final visualizations, please open the Google Colab notebook:
-    * **[➡️ Open in Google Colab](https://colab.research.google.com/drive/1d5DOg6UjAnly33HVwcez-eLmYQA0R_9Z)**
+    * **[➡️ Open in Google Colab](https://colab.research.google.com/drive/1d5DOg6UjAnly33HVwcez-eLmYQA0R_9Z?usp=sharing)**
 
 *(The notebook `notebook_1.ipynb` in this repository is the same file, provided to meet the submission structure requirements).*
 
@@ -23,7 +23,7 @@ There are two ways to review my work:
 ## 🛠️ How to Run the Code
 
 The Google Colab notebook is fully self-contained.
-1.  Open the [Google Colab link](https://colab.research.google.com/drive/1d5DOg6UjAnly33HVwcez-eLmYQA0R_9Z) above.
+1.  Open the [Google Colab link](https://colab.research.google.com/drive/1d5DOg6UjAnly33HVwcez-eLmYQA0R_9Z?usp=sharing) above.
 2.  Click **"Run all"** (`Runtime` > `Run all`).
 3.  The notebook will automatically:
     * Install the required `gdown` library.
@@ -36,5 +36,6 @@ The Google Colab notebook is fully self-contained.
 ## 📂 Project Structure
 
 This repository follows the standardized submission format as requested in the instructions.
+
 
 
