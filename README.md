@@ -27,7 +27,7 @@ The Google Colab notebook is fully self-contained.
 2.  Click **"Run all"** (`Runtime` > `Run all`).
 3.  The notebook will automatically:
     * Install the required `gdown` library.
-    * [cite_start]Download the two datasets from the provided Google Drive links[cite: 13, 15, 69, 71].
+    * Download the two datasets from the provided Google Drive links.
     * Clean, merge, and analyze the data.
     * Generate all visualizations.
 
@@ -36,4 +36,5 @@ The Google Colab notebook is fully self-contained.
 ## 📂 Project Structure
 
 This repository follows the standardized submission format as requested in the instructions.
+
 
