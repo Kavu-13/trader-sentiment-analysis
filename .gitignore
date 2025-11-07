@@ -1,0 +1,10 @@
+# Ignore Python cache files 
+__pycache__/ 
+*.py[cod] 
+*.env 
+.venv/ 
+venv/ 
+.ipynb_checkpoints/ 
+.DS_Store 
+historical_trader_data.csv 
+fear_greed_index.csv 
